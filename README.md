@@ -7,3 +7,5 @@ I put in 2 scripts because I at first used number input type instead of button a
 user input as well, so I still did the button input type. I didn't decide to choose to change the opacity because I think the concept is pretty similar to changing the L value in the HSL, in which we get the ID of the grid then link with the new value of the HSL but just replace HSL with opacity if needed.
   
 This was a very fun but tiring project, with much googling and learning. </p>
+
+https://maskedmenoo.github.io/Etch-a-Sketch-/
